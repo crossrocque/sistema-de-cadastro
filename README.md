@@ -5,5 +5,5 @@
 para rodar esse projeto na sua máquina, por favor difite:
 
 ```
-npm install react
+mode app.js
 ```
